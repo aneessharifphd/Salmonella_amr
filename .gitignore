@@ -1,0 +1,58 @@
+# ----------------------------
+# Bioinformatics Project Ignore
+# ----------------------------
+
+# Conda environment
+.env/
+venv/
+*.conda
+*.yaml
+*.yml
+
+# Python / R cache
+__pycache__/
+*.pyc
+*.pyo
+*.Rhistory
+*.RData
+*.Rproj.user/
+
+# Logs & tmp
+logs/
+tmp/
+*.log
+*.out
+*.err
+
+# Data (raw & large intermediate files should not be versioned)
+data/raw/
+data/processed/
+data/external/
+
+# Results (keep only figures or final processed files)
+results/qc/
+results/variants/
+results/alignment/
+results/tmp/
+*.bam
+*.sam
+*.vcf
+*.fastq
+*.fq
+*.fa
+*.fasta
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large archives
+*.zip
+*.tar.gz
+*.gz
+*.bz2
+*.xz
+*.7z
