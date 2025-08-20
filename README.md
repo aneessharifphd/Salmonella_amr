@@ -1,4 +1,4 @@
-# Salmonella_global_atlas
+# Salmonella_amr
 I am learning the linux and bioinformatics by reproducing nature article named A global atlas and drivers of antimicrobial resistance in Salmonella during 1900-2023 
 
 paper DOI
