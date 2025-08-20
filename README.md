@@ -1,2 +1,11 @@
+e<<<<<<< HEAD
 Salmonella AMR Project
 Practice started 2025-08-19
+=======
+# Salmonella_amr
+I am learning the linux and bioinformatics by reproducing nature article 
+named A global atlas and drivers of antimicrobial resistance in Salmonella during 1900-2023 
+
+paper DOI
+## https://doi.org/10.1038/s41467-025-59758-3
+>>>>>>> origin/main
